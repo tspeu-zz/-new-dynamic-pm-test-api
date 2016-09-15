@@ -1,0 +1,7 @@
+{"name":"London Store 2","address":"London, Uk","store_id":"0","phone":"44 20 555 555","description":"Trafalgar Square","lat":51.5084427,"lng":-0.127752,"_id":"7G2ISvRwGF2xg5VI"}
+{"name":"Store 2","address":"road 52","store_id":"3","phone":35352455654,"description":"Store 2","lat":53.2794429,"lng":-9.1487185,"_id":"FKP9dJ6PwJMY3U3h"}
+{"name":"Eye store","address":"Eye square","store_id":"3","phone":3535555555,"description":"Eye store 1","lat":53.274519,"lng":-9.048983,"_id":"N8EryyNz2fO3jNLY"}
+{"name":"Paris Shopping Centre","address":"Paris, France","store_id":"1","phone":"094324234","description":"Shopping Centre in Paris","lat":48.8588536,"lng":2.3124519,"_id":"T1JjBKerjnRSUIUd"}
+{"name":"Berlin Shopping Centre","address":"Berlin, Germany","store_id":"2","phone":"094324234","description":"Shopping Centre in Berlin","lat":52.5074588,"lng":13.2857214,"_id":"lIr930hEF11rZRJQ"}
+{"name":"London Shopping Centre","address":"London, England","store_id":"0","phone":"094324234","description":"Shopping Centre in London","lat":51.5287718,"lng":-0.2416799,"_id":"mCbPdDWkOvKzgjvy"}
+{"name":"Galway Shopping Centre","address":"Galway, Ireland","store_id":"3","phone":"094324234","description":"Shopping Centre in Galway City","lat":53.2794429,"lng":-9.0487185,"_id":"y78fWCEoAVNy4jZ1"}
